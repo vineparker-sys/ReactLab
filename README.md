@@ -23,7 +23,7 @@
 	- Conecte o termômetro Lutron TM-947SD via cabo RS232 para USB.
 - ### 3.4 **Configuração da Porta COM**:
 	- 1. Após instalar o driver e conectar o conversor USB-Serial, **abra o Gerenciador de Dispositivos** no seu computador:
-	- Pressione as teclas `Windows + X` e selecione **Gerenciador de Dispositivos**.
+		- Pressione as teclas `Windows + X` e selecione **Gerenciador de Dispositivos**.
 	- 2. Na lista de dispositivos, encontre a seção **Portas (COM & LPT)** e expanda-a.
 	- 3. Você verá algo como **"USB to Serial Adapter (COMx)"**, onde `COMx` será o número atribuído automaticamente à porta.
 	- 4. Para alterar a porta para `COM12`, clique com o botão direito no dispositivo e selecione **Propriedades**.
