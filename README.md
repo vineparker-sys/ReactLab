@@ -2,7 +2,7 @@
 
 ---
 - ## 1. **Introdução** 
-  O software **ReactLab** foi desenvolvido para automatizar a análise de reatividade ASTM, facilitando o registro de temperaturas de termopares durante medições de tempo pré-definidas. Este guia explica passo a passo como utilizar o software e realizar as medições de forma simples e eficiente.  
+  O software **ReactLab** foi desenvolvido para automatizar a análise de reatividade ASTM, feitas utilizando um termometro Lutron TM-947SD facilitando o registro de temperaturas de termopares durante medições de tempo pré-definidas. Este guia explica passo a passo como utilizar o software e realizar as medições de forma simples e eficiente.  
   
 ---
 - ## 2. **Requisitos do Sistema**
